@@ -53,7 +53,8 @@ img {
 	display: inline-block;	
 }
 .centering {
-	width: 100%;
+	width: 90%;
+	margin: auto;
 }
 #half {
 	width: 48%;
@@ -71,6 +72,13 @@ img {
 	left: 1%;
 	font-size: 420%;
 }
+#arts {
+	width: 40%;
+	display: inline-block;
+	vertical-align: middle;
+	margin: auto;
+}
+
 @media only screen and (max-width: 780px){
 	.arrow {font-size: 200%;}
 	.display {margin-bottom: 15%;}

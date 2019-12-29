@@ -2,7 +2,7 @@ body {
  	margin: 0;
  	color: #1c1a0e;
  	background-color: #f7e37c;
-  animation: fadein 2s;
+  	animation: fadein 2s;
 }
 @keyframes fadein {
 	from {opacity: 0;}
@@ -22,6 +22,7 @@ a:hover {
 img {
 	width: 100%;
 	height: 100%;
+	object-fit: cover;
 }
 ul {
 	list-style-type: none;
