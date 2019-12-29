@@ -26,6 +26,7 @@ img {
 ul {
 	list-style-type: none;
 	padding: 0;
+	line-height: 200%;
 }
 h1 {
 	font-size: 300%;
@@ -66,7 +67,6 @@ p {
 }
 .writing {
 	padding-top: 10%;
-	line-height: 200%;
 	font-family: 'Taviraj', 'serif';
 	font-size: 85%;
 }
